@@ -1,0 +1,15 @@
+Teil 2 Achte auf absolute Neutralität und vermeide Suggestivfragen oder verdeckte Annahmen. Wissensfragen dürfen die Antwort nicht vorwegnehmen oder die Lösung verraten. Falsch wäre: „Mir ist klar, dass Passwort-Manager Daten verschlüsseln.“ Richtig ist: „Ich kann erklären, wie ein Passwort-Manager Daten schützt.“ Zudem dürfen vor den einzelnen Teilen des Fragebogens keine Erklärungstexte stehen, die Wissen vermitteln oder spätere Fragen vorwegnehmen. Vermeide Trivial-Fragen oder Aussagen zur sozialen Erwünschtheit, denen nahezu jeder Befragte unterschiedslos zustimmen würde. Falsch wäre: „Mir ist wichtig, dass bei der Arbeit keine Fehler passieren.“ Richtig ist eine messbare Einstellung oder Kompetenz.
+
+Die theoretischen Namen der Konstrukte und Dimensionen dienen nur der methodischen Zuordnung und dürfen für die Befragten im Fragebogen nicht sichtbar sein. Die Abschnitte tragen rein funktionale Überschriften. Alle Inhaltsfragen nutzen durchgängig eine einheitliche, 5-stufige Likert-Skala mit exakt folgender Beschriftung: 1 = Trifft gar nicht zu, 2 = Trifft eher nicht zu, 3 = Teils / teils, 4 = Trifft eher zu, 5 = Trifft voll und ganz zu.
+
+Der Fragebogen beginnt mit einer kurzen, wertschätzenden Einleitung, die den Zweck der Befragung erklärt, Vertraulichkeit und anonymisierte Auswertung zusichert, betont, dass es keine richtigen oder falschen Antworten gibt und nur Aspekte ankündigt, die im Fragebogen auch tatsächlich vorkommen. Darauf folgt ein Teil für Angaben zur Person und Tätigkeit. Entwickle hierfür überschneidungsfreie, logische Antwortoptionen für Berufsgruppe, Berufserfahrung im Krankenhaus, Altersgruppe und KI-Vorerfahrung (mit sauberer Trennung von theoretischem Wissen und praktischer Nutzung). Achte darauf, wo eine freie Option wie „Sonstige“ sinnvoll ist und wo nicht.
+
+Gliederung deiner Gesamtausgabe:
+
+1. Modellauswahl: Nennung und kurze wissenschaftliche Begründung der gewählten Modelle aus den Quellen samt korrekter Zitierweise.
+
+2. Konstrukttabelle: Eine übersichtliche Tabelle mit den Spalten „Konstrukt/Dimension“, „Definition“ und „Quelle“.
+
+3. Fragebogen: Der vollständige, direkt einsetzbare Fragebogen mit Einleitung, Demografie und allen Inhaltsfragen.
+
+4. Prüfprotokoll: Ein kurzes Protokoll deiner abschließenden Qualitätsprüfung, in dem du konkret aufführst, welche Fragen du vor der Endfassung noch einmal korrigiert hast (z. B. Bereinigung von Doppelformulierungen oder Entfernung von Häufigkeitswörtern).
